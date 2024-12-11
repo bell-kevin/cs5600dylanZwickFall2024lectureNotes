@@ -4,6 +4,8 @@
 
 Lecture videos: https://drive.google.com/drive/folders/1EQ32WWrgiC0SX89_4HNmaJlK65n60g_8
 
+Dr. Zwick has provided the recording of the AI Alignment talk he did: https://drive.google.com/file/d/1F3Sv0bRGZLrAvHLWfDERCFzw2R0yzkIZ/view?usp=drive_link
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
