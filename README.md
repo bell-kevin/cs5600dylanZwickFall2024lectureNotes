@@ -4,7 +4,8 @@
 
 Lecture videos: https://drive.google.com/drive/folders/1EQ32WWrgiC0SX89_4HNmaJlK65n60g_8
 
-Dr. Zwick has provided the recording of the AI Alignment talk he did: https://drive.google.com/file/d/1F3Sv0bRGZLrAvHLWfDERCFzw2R0yzkIZ/view?usp=drive_link
+Dr. Zwick's W.S.U. A.C.M. AI Alignment sermon: https://drive.google.com/file/d/1F3Sv0bRGZLrAvHLWfDERCFzw2R0yzkIZ/view?usp=drive_link bad audio
+Lecture video 18 is more or less the same as his sermon, but with better audio quality.
 
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
