@@ -5,7 +5,7 @@
 Lecture videos: https://drive.google.com/drive/folders/1EQ32WWrgiC0SX89_4HNmaJlK65n60g_8
 
 Dr. Zwick's W.S.U. A.C.M. A.I. alignment "sermon": https://drive.google.com/file/d/1F3Sv0bRGZLrAvHLWfDERCFzw2R0yzkIZ/view?usp=drive_link (bad audio)
-Lecture video 18 is more or less the same as his sermon, but with better audio quality.
+Lecture videos 18 and 25 combined are more or less the same as his sermon, but with better audio quality.
 
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
